@@ -1,5 +1,8 @@
 # Sentiment Analysis
 
+## Dataset
+https://www.kaggle.com/datasets/kazanova/sentiment140
+
 ## Objective
 Analyze text data and identify the sentiment expressed in the text.
 
@@ -23,3 +26,5 @@ Analyze text data and identify the sentiment expressed in the text.
 
 ## Conclusion
 The text data was analyzed and classified into sentiment categories to understand overall sentiment patterns.
+
+
